@@ -1,0 +1,10 @@
+turtle.forward(x) or turtle.fd(x)	        Moves the turtle forward by specified distance x.
+turtle.backward(x) or turtle.bk(x)	        Moves the turtle backward by specified distance x.
+turtle.right(x) or turtle.rt(x)	            Turns the turtle right by specified angle x.
+turtle.left(x) or turtle.lt(x)	            Turns the turtle left by specified angle x.
+turtle.penup() or turtle.pu()	            Lifts the pen such that moving turtle doesn’t draw on the screen.
+turtle.pendown() or turtle.pd()	            Puts the pen down such that moving turtle draws on the screen.
+turtle.pensize(x) or turtle.width(x)	    Sets the pen size to the provided width x.
+turtle.color("color")	                    Changes the color of the turtle’s pen to the provided color.
+turtle.speed(x)	                            Sets the speed of the turtle’s movement to the specified x.
+turtle.shape("shape")	                    Changes the shape of the turtle to the provided shape (e.g., “turtle”, “arrow”, “circle”, etc.).
